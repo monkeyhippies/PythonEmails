@@ -47,6 +47,7 @@ def main():
             if flag:
                 break
         
+        n_emails=10
         for email_n in range(n_emails):
             
             #Go to and expand threads
